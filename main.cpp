@@ -6,7 +6,7 @@
 
 class Player {
 Private:
-    std:: string namr;
+    std:: string name;
     int score;
 
 public:
